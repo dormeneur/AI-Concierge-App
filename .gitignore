@@ -1,0 +1,14 @@
+# Python
+*.pyc
+__pycache__/
+
+# Node
+node_modules/
+build/
+dist/
+
+# Environment variables
+.env
+
+# Ignore scripts folder
+scripts/
