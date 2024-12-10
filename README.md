@@ -2,6 +2,8 @@
 
 This is a comprehensive AI-driven concierge app designed to provide personalized assistance to users.
 
+[First Look](https://dribbble.com/shots/25281275-AI-Concierge-App-First-Look?utm_source=Clipboard_Shot&utm_campaign=aadityabhartii&utm_content=AI%20Concierge%20App%3A%20First%20Look&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=aadityabhartii&utm_content=AI%20Concierge%20App%3A%20First%20Look&utm_medium=Social_Share)
+
 ## Project Structure
 
 - **backend/**: Contains the backend code.
